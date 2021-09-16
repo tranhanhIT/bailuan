@@ -1,0 +1,6 @@
+CÀI THÊM 2 PIP CHO DJANGO TRÊN ENV NÀY
+
+pip install mysqlclient
+
+pip install pymysql
+
